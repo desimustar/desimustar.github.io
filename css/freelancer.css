@@ -61,10 +61,6 @@ hr.star-light {
     border-color: #fff;
 }
 
-hr.star-light:after {
-    color: #fff;
-    background-color: #18bc9c;
-}
 
 hr.star-primary {
     border-color: #2c3e50;
@@ -77,12 +73,6 @@ hr.star-primary:after {
 
 .img-centered {
     margin: 0 auto;
-}
-
-header {
-    text-align: center;
-    color: #fff;
-    background: #18bc9c;
 }
 
 header .container {
@@ -474,9 +464,9 @@ footer .footer-below {
 }
 header {
     text-align: center;
-    color: #FFF;
     background: #E9E6DE none repeat scroll 0% 0%;
 	color: #A73DAE;
+
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
     color: #A73DAE;
@@ -516,4 +506,10 @@ hr.star-primary:after {
 }
 body {
 color: black;
+}
+hr.star-primary {
+    border-color: #753B8F;
+}
+.contact-me {
+ color: #5A1D59;
 }
