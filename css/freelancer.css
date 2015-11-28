@@ -506,3 +506,14 @@ section.success {
     color: #FFF;
     background-color: #A45145;
 }
+hr.star-light:after {
+    color: #fff;
+    background-color: #A24065;
+}
+hr.star-primary:after {
+    color: #A24065;
+    background-color: #fff;
+}
+body {
+color: black;
+}
